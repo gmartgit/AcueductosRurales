@@ -1,2 +1,2 @@
 # AcueductosRurales
-Herramientas para fortalecer acueductos rurales
+Herramientas de información para fortalecer acueductos rurales
