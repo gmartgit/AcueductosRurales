@@ -77,7 +77,5 @@ for gdf, nombre in zip(puntos_en_SIASAR, nombres_SIASAR):
 plt.legend(bbox_to_anchor=(1.05, 1.0), loc='upper left')
 plt.tight_layout()
 
-plt.show()
 plt.savefig(os.path.join(dir_resultados,'Puntos_SIASAR_en_AE.png'), bbox_inches='tight')
-
-
+plt.close()
